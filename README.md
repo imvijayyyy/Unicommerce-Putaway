@@ -1,0 +1,2 @@
+# Unicommerce-Putaway
+auto putaway
